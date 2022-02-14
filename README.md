@@ -74,7 +74,7 @@ Also, the number of impressions on a day is directly proportional to the number 
 The following are the features we'll use to predict our target variable (heart disease or no heart disease).
 There are 13 attributes:
 <details><summary><b>Click to know more </b></summary>   
-
+<!-- 
    1. **age**: age (in years)
 
 2. **sex**: gender (1 = male; 0 = female)
@@ -118,7 +118,7 @@ Radioactive dye is introduced to the body followed by x-ray imaging to detect an
 13. **thal**: 0 = normal; 1 = fixed defect (heart tissue can't absorb thallium both under stress and in rest); 2 = reversible defect (heart tissue is unable to absorb thallium only under the exercise portion of the test)
 Thallium testing is a method where the radioactive element thallium (Tl) is introduced to the body through an IV injection, followed by nuclear imaging of the heart with a gamma camera which reveals structural issues and abnormalities of the heart by showing whether if the isotope was absorbed by heart tissue under high (exercise) and low (rest) stress conditions.
 
-14. **target**: 0 = no disease, 1 = disease
+14. **target**: 0 = no disease, 1 = disease -->
 
 </details>
 
