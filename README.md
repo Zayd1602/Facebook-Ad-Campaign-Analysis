@@ -24,16 +24,16 @@ We can see that the Dashboard has three Plots, Key influencers and two slicers.
 
 <details><summary><b>Approved Conversion, Amount Spent and Clicks by Age Range and Campaign Name Plot</b></summary> 
 
-<img align=right width=330 src="https://github.com/Zayd1602/Facebook-Ad-Campaign-Analysis/blob/main/Approved-Conversion-Amount-SPent-and-Clicks-by-Age-Range-and-Campaign-Range-Plot.png">
+<img align=right width=300 height=200 src="https://github.com/Zayd1602/Facebook-Ad-Campaign-Analysis/blob/main/Approved-Conversion-Amount-SPent-and-Clicks-by-Age-Range-and-Campaign-Range-Plot.png">
    
-In this visual, we see a Line and clustered column chart which shows us the Age-Range vs. Approved Conversion plot with the lines representing the Amount-Spent and Clicks based on the Age-Range.
+- In this visual, we see a Line and clustered column chart which shows us the Age-Range vs. Approved Conversion plot with the lines representing the Amount-Spent and Clicks based on the Age-Range.
 </details>
 
 <details><summary><b>Total Conversion, Approved Conversion and Clicks by Day Plot</b></summary> 
 
 <img align=right width=330 src="https://github.com/Zayd1602/Facebook-Ad-Campaign-Analysis/blob/main/Total-Conversion-Approved-Conversion-and-Clicks-by-Day-Plot.png">
    
-In this visual, we can see a Line chart which shows us the Day vs. Total-Conversion and Approved-Conversion plot with the Clicks being the secondary value. 
+- In this visual, we can see a Line chart which shows us the Day vs. Total-Conversion and Approved-Conversion plot with the Clicks being the secondary value. 
 </details> 
 
 
@@ -41,11 +41,11 @@ In this visual, we can see a Line chart which shows us the Day vs. Total-Convers
 
 <img align=right width=330 src="https://github.com/Zayd1602/Facebook-Ad-Campaign-Analysis/blob/main/Total-Conversion-Approved-Conversion-and-Impressions-by-Day-Plot.png">
 
-In this visual, we can see a Line chart which shows us the Day vs. Total-Conversion and Approved-Conversion plot with the Impressions being the secondary value. 
+- In this visual, we can see a Line chart which shows us the Day vs. Total-Conversion and Approved-Conversion plot with the Impressions being the secondary value. 
 </details> 
 
 <details><summary><b>Key Influencers</b></summary> 
-<img align=right src='https://github.com/Zayd1602/Facebook-Ad-Campaign-Analysis/blob/main/Key-Influencers.png'/>
+<img align=right width=400 height=200 src='https://github.com/Zayd1602/Facebook-Ad-Campaign-Analysis/blob/main/Key-Influencers.png'/>
    
    1. The key influencers tab displays the key factors affecting the value selected.
    2. On the other side there is a scatter plot showing the distribution of the selected factor.
