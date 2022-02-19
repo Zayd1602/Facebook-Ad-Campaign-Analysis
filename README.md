@@ -15,46 +15,32 @@ The huge volume of data is used to make decision which is more accurate than int
 Create a Dashboard using Facebook leads and campaigns data from a kaggle data set and analyze camapaigns with best recommmended changes to improve conversion rates across products
 
 ## Solution
-<!-- 
-<img align=right width=330 src="https://github.com/Zayd1602/Heart-Disease-Analysis-using-PowerBI/blob/main/Doctors-Vector-Art.jpg"> -->
 
 Power BI is an interactive data visualization software that is responsible for creating, striking, engaging, and meaningful data visualizations that can help to break down even the most complex and convoluted problems into manageable component parts, giving businesses a new level of insight into how to change/modify their approach their target  while succeeding with their strategic goals.
-
-<br></br>
 
 ## Description
 
 Here, I’ve created a Dashboard for the dataset and recommended some measures to improve conversion rates. 
 
-We can see that the visual has two tabs, namely – Key influencers and Top segments and two slicers.
+We can see that the Dashboard has three Plots, Key influencers and two slicers.
 
 <details><summary><b>Key Influencers</b></summary> 
 <!-- <img align=right src='https://github.com/Zayd1602/Heart-Disease-Analysis-using-PowerBI/blob/main/Key-Influencers.png'/> -->
    
-<!--    1. The key influencers tab displays the key factors affecting the value selected. In our case, the top factor that results in positive diagnosis of Heart Disease is Exercise Induced Angina. 
-   2. On the other side there may be a column chart or a scatter plot showing the distribution of the selected factor.
+   1. The key influencers tab displays the key factors affecting the value selected. In our case, the top factor that results in positive diagnosis of Heart Disease is Exercise Induced Angina. 
+   2. On the other side there is a scatter plot showing the distribution of the selected factor.
    3. We can see a ring around each influencer’s bubble, which represents the approximate percentage of data that influencer contains. The more of the bubble the ring circles, the more data it contains.
-   4. We can select different factors to observe their effect on the diagnosis of disease.
-
-</details>
-<details><summary><b>Top Segments</b></summary>   
-<!-- <img align=right src='https://github.com/Zayd1602/Heart-Disease-Analysis-using-PowerBI/blob/main/Top-Segments.png'/> -->
-   
-   1. The top segments tab displays the top segments that are identified by Power BI from the dataset for the metric selected.
-   2. It initially shows the overview of all the segments. These segments are ranked by the heart disease detected (True/False) and the number of patients (population size). The higher the bubble the more the percentage of disease detected (True/False). 
-   3. The size of the bubble represents the number of patients within the segment.
-   4. We can select a bubble which then displays the details of the segment. -->
-   
+   4. We can select different factors to observe their effect on Approved Conversion.   
 </details>
    
-<!-- - The visualizations are filtered between Disease Detected to be True or False.
+- The visualizations are filtered between Campaign Names and Gender.
 - Slicers are a way of filtering. They narrow the portion of the dataset that is shown in the other report visualizations. 
-  So, I’ve made two slicers one for filtering from the range of age, and another for filtering from different gender or both. -->
+  So, I’ve made two slicers one for filtering from the different campaigns, i.e. C-1, C-2 and C-3, and another for filtering from different gender or both.
 
 <div align=center>
-<!--    
-| <img align=center src='https://github.com/Zayd1602/Heart-Disease-Analysis-using-PowerBI/blob/main/Age-Slicer.png'/> | <img align=center src='https://github.com/Zayd1602/Heart-Disease-Analysis-using-PowerBI/blob/main/Gender-Slicer.png'/> |
-| --- | --- | -->
+   
+| <img align=center src='https://github.com/Zayd1602/Facebook-Ad-Campaign-Analysis/blob/main/Campaign-Name-Slicer.png'/> | <img align=center src='https://github.com/Zayd1602/Facebook-Ad-Campaign-Analysis/blob/main/Gender-Slicer.png'/> |
+| --- | --- |
 
 </div>
    
