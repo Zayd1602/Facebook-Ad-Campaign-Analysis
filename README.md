@@ -122,9 +122,9 @@ There are 15 attributes:
 
 ## Sources
 
-- Dataset -[https://www.kaggle.com/madislemsalu/facebook-ad-campaign](https://www.kaggle.com/madislemsalu/facebook-ad-campaign) Kaggle 
+- Dataset: [https://www.kaggle.com/madislemsalu/facebook-ad-campaign](https://www.kaggle.com/madislemsalu/facebook-ad-campaign) Kaggle 
 
-- Dataset factors explanation – [https://www.kaggle.com/chrisbow/an-introduction-to-facebook-ad-analysis-using-r/data](https://www.kaggle.com/chrisbow/an-introduction-to-facebook-ad-analysis-using-r/data)
+- Dataset factors explanation: [https://www.kaggle.com/chrisbow/an-introduction-to-facebook-ad-analysis-using-r/data](https://www.kaggle.com/chrisbow/an-introduction-to-facebook-ad-analysis-using-r/data)
 Kaggle
 
 <!--  - Vector art - [https://www.freepik.com/vectors/people](https://www.freepik.com/vectors/people)
