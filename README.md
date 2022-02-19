@@ -120,13 +120,12 @@ There are 15 attributes:
 
   >Note: Names of the columns were changed while transforming the data in Power BI.
 
-<!-- ## Sources
+## Sources
 
- - Dataset - [https://drive.google.com/drive/folders/1M5z7z1NmWar7y1eFs67orfjqHL0iSViL](https://drive.google.com/drive/folders/1M5z7z1NmWar7y1eFs67orfjqHL0iSViL)
-(iNeuron) 
+- Dataset -[https://www.kaggle.com/madislemsalu/facebook-ad-campaign](https://www.kaggle.com/madislemsalu/facebook-ad-campaign) Kaggle 
 
- - Dataset factors explanation – [https://www.kaggle.com/onatto/predicting-heart-disease-a-detailed-guide](https://www.kaggle.com/onatto/predicting-heart-disease-a-detailed-guide)
-(Kaggle)
+- Dataset factors explanation – [https://www.kaggle.com/chrisbow/an-introduction-to-facebook-ad-analysis-using-r/data](https://www.kaggle.com/chrisbow/an-introduction-to-facebook-ad-analysis-using-r/data)
+Kaggle
 
- - Vector art - [https://www.freepik.com/vectors/people](https://www.freepik.com/vectors/people)
+<!--  - Vector art - [https://www.freepik.com/vectors/people](https://www.freepik.com/vectors/people)
 (People vector created by katemangostar - www.freepik.com) -->
