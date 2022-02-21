@@ -27,6 +27,7 @@ We can see that the Dashboard has three Plots, Key influencers and two slicers.
 <img align=right width=300 height=200 src="https://github.com/Zayd1602/Facebook-Ad-Campaign-Analysis/blob/main/Approved-Conversion-Amount-SPent-and-Clicks-by-Age-Range-and-Campaign-Range-Plot.png">
    
 - In this visual, we see a Line and clustered column chart which shows us the Age-Range vs. Approved Conversion plot with the lines representing the Amount-Spent and Clicks based on the Age-Range.
+   <br><br><br><br><br><br>
 </details>
 
 <details><summary><b>Total Conversion, Approved Conversion and Clicks by Day Plot</b></summary> 
@@ -34,14 +35,15 @@ We can see that the Dashboard has three Plots, Key influencers and two slicers.
 <img align=right width=330 src="https://github.com/Zayd1602/Facebook-Ad-Campaign-Analysis/blob/main/Total-Conversion-Approved-Conversion-and-Clicks-by-Day-Plot.png">
    
 - In this visual, we can see a Line chart which shows us the Day vs. Total-Conversion and Approved-Conversion plot with the Clicks being the secondary value. 
+   <br><br><br><br><br>
 </details> 
-
 
 <details><summary><b>Total Conversion Approved Conversion and Impressions by Day Plot</b></summary> 
 
 <img align=right width=330 src="https://github.com/Zayd1602/Facebook-Ad-Campaign-Analysis/blob/main/Total-Conversion-Approved-Conversion-and-Impressions-by-Day-Plot.png">
 
 - In this visual, we can see a Line chart which shows us the Day vs. Total-Conversion and Approved-Conversion plot with the Impressions being the secondary value. 
+   <br><br><br><br><br>
 </details> 
 
 <details><summary><b>Key Influencers</b></summary> 
@@ -51,6 +53,7 @@ We can see that the Dashboard has three Plots, Key influencers and two slicers.
    2. On the other side there is a scatter plot showing the distribution of the selected factor.
    3. We can see a ring around each influencer’s bubble, which represents the approximate percentage of data that influencer contains. The more of the bubble the ring circles, the more data it contains.
    4. We can select different factors to observe their effect on Approved Conversion.   
+   <br><br>
 </details>
    
 - The visualizations are filtered between Campaign Names and Gender.
