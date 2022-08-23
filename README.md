@@ -4,7 +4,7 @@ Regularly analyzing the advertisement metrics helps us determine if we are getti
 
 In this project we will learn how does the advertisements effect people with different age range, gender and date of the month the advertisement campaign is run. We will see various interactive visuals of the data obtained from the data provided by facebook for the advertisement campaigns run by some company.
 
-These visuals can help the marketers to target the audiences which are more susceptible to buy or take a look at the product offered by the company. It will significantly reduce the time taken by the medical professional to determine the patients’ problems. Analyzing the advertisement campaigns can not only reach more audiences, but also save a lot of money on those advertisements by targeting the interested audience.
+These visuals can help the marketers to target the audiences which are more susceptible to buy or take a look at the product offered by the company. Analyzing the advertisement campaigns can not only reach more audiences, but also save a lot of money on those advertisements by targeting the interested audience.
 
 The huge volume of data is used to make decision which is more accurate than intuition. Thus, the trends, patterns, and outliers even within large data sets can be identified fast.
    
